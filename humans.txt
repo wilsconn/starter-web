@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Connor Wilson	connor.wilson48@gmail.com	
 
 # THANKS
 
